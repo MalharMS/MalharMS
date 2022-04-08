@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MalharMS
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Malhar Mahanwar
+- 👀 I’m interested in AI, Tech, Crypto 
 - 🌱 I’m currently learning Javascript, React-Native and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta - @malharmahanor
 
 <!---
